@@ -1,11 +1,10 @@
-📘 Directory Basics - HTML Project
-📖 About
+###📘 Directory Basics - HTML Project
+###📖 About
 
 This project is a collection of basic HTML examples, designed to demonstrate the essential building blocks of a webpage.
 It covers from adding a <h1> to working with tables, images, audio, videos, and more.
 
-🚀 Features
-
+###🚀 Features
 
 Headings and paragraphs
 
