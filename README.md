@@ -14,4 +14,4 @@ It covers from adding a `<h1>` to working with tables, images, audio, videos, an
 - Links and navigation  
 
 ## 🏹Objective
--practice the fundamentals of HTML.
+- practice the fundamentals of HTML.
