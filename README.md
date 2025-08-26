@@ -1,17 +1,17 @@
-# 📘 Directory Basics - HTML Project  
+# 📘 Noções básicas de diretórios - Projeto HTML
 
-## 📖 About  
-This project is a collection of basic HTML examples, designed to demonstrate the essential building blocks of a webpage.  
-It covers from adding a `<h1>` to working with tables, images, audio, videos, and more.  
+## 📖 Sobre
+Este projeto é uma coleção de exemplos básicos de HTML, projetados para demonstrar os blocos de construção essenciais de uma página web.
+Ele abrange desde a adição de um `<h1>` até o trabalho com tabelas, imagens, áudio, vídeos e muito mais.
 
-## 🚀 Features  
-- Headings and paragraphs  
-- Lists (ordered and unordered)  
-- Tables with rows and columns  
-- Images with attributes (`src`, `alt`, `width`)  
-- Audio with controls  
-- Video with controls  
-- Links and navigation  
+## 🚀 Recursos
+- Títulos e parágrafos
+- Listas (ordenadas e não ordenadas)
+- Tabelas com linhas e colunas
+- Imagens com atributos (`src`, `alt`, `width`)
+- Áudio com controles
+- Vídeo com controles
+- Links e navegação
 
-## 🏹Objective
-- practice the fundamentals of HTML.
+## 🏹Objetivo
+- praticar os fundamentos do HTML.
