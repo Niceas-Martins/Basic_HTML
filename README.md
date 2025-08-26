@@ -4,7 +4,7 @@
 Este projeto é uma coleção de exemplos básicos de HTML, projetados para demonstrar os blocos de construção essenciais de uma página web.
 Ele abrange desde a adição de um `<h1>` até o trabalho com tabelas, imagens, áudio, vídeos e muito mais.
 
-## 🚀 Recursos
+## 🚀 Características
 - Títulos e parágrafos
 - Listas (ordenadas e não ordenadas)
 - Tabelas com linhas e colunas
@@ -14,4 +14,4 @@ Ele abrange desde a adição de um `<h1>` até o trabalho com tabelas, imagens, 
 - Links e navegação
 
 ## 🏹Objetivo
-- praticar os fundamentos do HTML.
+- Praticar os fundamentos do HTML.
